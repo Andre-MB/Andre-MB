@@ -54,4 +54,10 @@
 
 <br>
 
+### Featured projects
+- [Inventory Control System](https://github.com/Andre-MB/sce_mvp)
+- [Secret Word](https://github.com/Andre-MB/Secret_Word)
+- [Online menu](https://github.com/Andre-MB/cardapio-digital-backend)
+- [Job Finder](https://github.com/Andre-MB/job_Finder)
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
