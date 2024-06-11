@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  [![Portfolio21-ezgif-com-gif-maker.gif](https://i.postimg.cc/CLjdkfYx/Portfolio21-ezgif-com-gif-maker.gif)](https://postimg.cc/mtgbGktv)
+  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/CLjdkfYx/Portfolio21-ezgif-com-gif-maker.gif' border='0' alt='Portfolio21-ezgif-com-gif-maker'/></a>
 </div>
 
 <br>
