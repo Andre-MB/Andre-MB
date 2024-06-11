@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"height="40px"/>
 </div>
 
+[![gifportfolio.gif](https://i.postimg.cc/GmF3T0F8/gifportfolio.gif)](https://postimg.cc/v4mwCNSb)
+
 <br>
 
 <div align="center">
