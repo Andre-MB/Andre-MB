@@ -42,7 +42,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"height="40px"/>
 </div>
 
-[![Portfolio21-ezgif-com-gif-maker.gif](https://i.postimg.cc/CLjdkfYx/Portfolio21-ezgif-com-gif-maker.gif)](https://postimg.cc/mtgbGktv)
+<div align="center">
+  [![Portfolio21-ezgif-com-gif-maker.gif](https://i.postimg.cc/CLjdkfYx/Portfolio21-ezgif-com-gif-maker.gif)](https://postimg.cc/mtgbGktv)
+</div>
 
 <br>
 
