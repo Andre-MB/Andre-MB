@@ -46,7 +46,8 @@
   <a href='https://postimages.org/' target='_blank'><img width="50%" src='https://i.postimg.cc/CLjdkfYx/Portfolio21-ezgif-com-gif-maker.gif' border='0' alt='Portfolio21-ezgif-com-gif-maker'/></a>
 </div>
 
-### Featured projects
+ <h3 align="center"> Featured projects :</h3>
+ 
 - [Inventory Control System](https://github.com/Andre-MB/sce_mvp)
 - [Secret Word](https://github.com/Andre-MB/Secret_Word)
 - [Online menu](https://github.com/Andre-MB/cardapio-digital-backend)
