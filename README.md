@@ -43,16 +43,8 @@
 </div>
 
 <div align="center">
-  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/CLjdkfYx/Portfolio21-ezgif-com-gif-maker.gif' border='0' alt='Portfolio21-ezgif-com-gif-maker'/></a>
+  <a href='https://postimages.org/' target='_blank'><img width="50%" src='https://i.postimg.cc/CLjdkfYx/Portfolio21-ezgif-com-gif-maker.gif' border='0' alt='Portfolio21-ezgif-com-gif-maker'/></a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://i.postimg.cc/vHnTyVsr/Whats-App-Image-2024-03-03-at-14-38-28-1.jpg" height="500px">
-</div>
-
-<br>
 
 ### Featured projects
 - [Inventory Control System](https://github.com/Andre-MB/sce_mvp)
