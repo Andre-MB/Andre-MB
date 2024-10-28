@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
