@@ -52,6 +52,9 @@
   <a href='https://postimages.org/' target='_blank'><img width="50%" src='https://i.postimg.cc/CLjdkfYx/Portfolio21-ezgif-com-gif-maker.gif' border='0' alt='Portfolio21-ezgif-com-gif-maker'/></a>
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="21" width="100%">
+
+
  <h3 align="center"> Featured projects :</h3>
  
 - [Inventory Control System](https://github.com/Andre-MB/sce_mvp)
