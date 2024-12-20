@@ -53,9 +53,6 @@
 </div>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="21" width="100%">
-
-
 
  <h3 align="center"> Featured projects :</h3>
  
