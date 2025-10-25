@@ -30,7 +30,8 @@
 <div align="center">
   <a href="https://github.com/Andre-MB">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Andre-MB&theme=radical&bg_color=000&border_color=4B0082&show_icons=true&icon_color=DAA520&title_color=DAA520&text_color=fff"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Andre-MB&layout=compact&bg_color=000&border_color=4B0082&title_color=DAA520&text_color=fff"/>
+    
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Andre-MB&layout=compact&bg_color=000&border_color=4B0082&title_color=DAA520&text_color=fff "/>
 </div>
 
 <br>
