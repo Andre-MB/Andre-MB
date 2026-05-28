@@ -62,7 +62,7 @@
 
  <h3 align="center"> Featured projects :</h3>
  
-
+<div align="center">
 <table>
   <tr>
     <td valign="top">
@@ -80,7 +80,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="21" width="100%">
 
