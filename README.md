@@ -68,6 +68,7 @@
     <td valign="top">
 
  ➱ [Inventory Control System](https://github.com/Andre-MB/sce_mvp)
+ 
  ➱ [Secret Word](https://github.com/Andre-MB/Secret_Word)
 
    </td>
@@ -75,6 +76,7 @@
   <td valign="top" >
 
 ➱ [Online Menu](https://github.com/Andre-MB/cardapio-digital-backend)
+
 ➱ [Job Finder](https://github.com/Andre-MB/job_Finder)
 
    </td>
