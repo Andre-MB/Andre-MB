@@ -35,7 +35,7 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=Andre-MB&layout=compact&langs_count=10&theme=algolia&hide=css,html)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-MB&show_icons=true&theme=radical)
 
   ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andre-MB&layout=compact&langs_count=10&theme=algolia&hide=css,html)
 
