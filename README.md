@@ -37,9 +37,6 @@
   <img height="165em" src="./profile/langs.svg?v=1" alt="Linguagens Mais Usadas" />
 </div>
 
- <!-- Estatísticas Gerais -->
-  <img height="165em" src="https://vercel.app" alt="Estatísticas do GitHub de André" />
-  
 
 </div>
 
