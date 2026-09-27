@@ -14,7 +14,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Andre-MB&bg_color=000000&border_color=4B0082&show_icons=true&icon_color=DAA520&title_color=DAA520&text_color=ffffff
+          options: username=Andre-MB&bg_color=000000&border_color=4B0082&show_icons=true&icon_color=DAA520&title_color=DAA520&text_color=ffffff&include_all_commits=false
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
