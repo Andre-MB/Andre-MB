@@ -31,7 +31,7 @@
   
   <div align="center">
   <!-- Estatísticas Gerais -->
-  <img height="165em" src="./profile/stats.svg?v=1" alt="Estatísticas do GitHub de André" />
+  <img height="165em" src="https://vercel.app" alt="Estatísticas do GitHub de André" />
   
   <!-- Linguagens Mais Usadas -->
   <img height="165em" src="./profile/langs.svg?v=1" alt="Linguagens Mais Usadas" />
