@@ -35,6 +35,8 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=Andre-MB&layout=compact&langs_count=10&theme=algolia&hide=css,html)
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
   ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andre-MB&layout=compact&langs_count=10&theme=algolia&hide=css,html)
 
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andre-MB&theme=radical&bg_color=000&border_color=4B0082&show_icons=true&icon_color=DAA520&title_color=DAA520&text_color=fff"/>
